@@ -1,4 +1,4 @@
-/*public class LocalVariable {
+public class LocalVariable {
     public void hitungUsia() {
         int usia = 0;
         int tahunSekarang = 2019;
