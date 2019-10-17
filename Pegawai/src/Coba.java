@@ -1,9 +1,9 @@
 public class Coba {
      public static void main (String[] args){
-        Pegawai pg = new Pegawai();
-        Pegawai pg2 = new Pegawai(2);
-        Pegawai pg3 = new Pegawai(1);
-        Pegawai pg1 = new Pegawai(0);
+        PegawaiClass pg = new PegawaiClass();
+        PegawaiClass pg2 = new PegawaiClass(2);
+        /*PegawaiClass pg3 = new PegawaiClass(1);
+        PegawaiClass pg1 = new PegawaiClass(0);
         /*pg.SetNama("Donny");
         pg.SetNIM("L200183161");*/
         System.out.println("Nama Saya : " + pg.getName());
