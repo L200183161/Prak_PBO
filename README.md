@@ -2,7 +2,7 @@
 # Attention 
 Ngumpulke laprak PBO 
 
-For babang riza and babang upi maafkan daku yang nulis modulnya dari modul 1 haruse dari modul 2
+For babang <i>riza</i> and babang <i>upi</i> maafkan daku yang nulis modulnya dari modul 1 haruse dari modul 2
 Modul 1 == Modul 2 <br>
 Modul 2 == Modul 3 <br>
 Modul 3 == Modul 4 <br>
